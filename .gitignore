@@ -1,0 +1,27 @@
+# plot #
+########
+dat/
+plt/
+
+# legal #
+#########
+legal/
+
+# object #
+##########
+obj/
+
+# executable #
+##############
+HW3_M16131056
+
+# temp #
+########
+*.o
+*.out
+*.exe
+
+# system #
+##########
+.DS_Store  # macOS metadata file
+Thumbs.db  # Windows thumbnail cache file
